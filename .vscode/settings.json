@@ -1,6 +1,6 @@
 {
-  "workbench.colorCustomizations": {
-    "statusBar.noFolderBackground": "#410A56",
-    "statusBar.noFolderForeground": "#FEFBFF"
-  }
+    "workbench.colorCustomizations": {
+        "statusBar.noFolderBackground": "#410A56",
+        "statusBar.noFolderForeground": "#FEFBFF"
+    }
 }
